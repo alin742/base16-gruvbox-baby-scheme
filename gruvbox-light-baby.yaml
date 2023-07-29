@@ -1,0 +1,43 @@
+scheme: "Gruvbox light, baby"
+author: "Ali Elnwegy (alinwegy@gmail.com), Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"
+base00 : "ebdbb2" # foreground
+base01 : "E7D7AD" # milk
+# base01 : "DEDEDE" # gray
+base02 : "665c54" # comment
+base03 : "504945" # medium_gray
+base04 : "83a598" # dark_gray
+base05 : "32302f" #background_light
+base06 : "282828" # background
+base07 : "1d2021" # background_dark
+# base07 : "202020" # dark
+# base07 : "0d0e0f" # dark0
+
+
+base08: "fb4934" # red
+base09: "d65d0e" # orange
+# base0A : "eebd35" # soft_yellow
+base0A: "fabd2f" # bright_yellow
+# base0B : "98971a" # soft_green
+# base0B : "8ec07c" # clean_green
+base0B: "689d6a" # forest_green
+base0C : "7fa2ac" # light_blue
+base0D : "458588" # blue_gray
+base0E : "D4879C" # pink
+base0F : "b16286" # magenta
+
+# base00: "1d2021" # ----
+# base01: "3c3836" # ---
+# base02: "504945" # --
+# base03: "665c54" # -
+# base04: "bdae93" # +
+# base05: "d5c4a1" # ++
+# base06: "ebdbb2" # +++
+# base07: "fbf1c7" # ++++
+# base08: "fb4934" # red
+# base09: "fe8019" # orange
+# base0A: "fabd2f" # yellow
+# base0B: "b8bb26" # green
+# base0C: "8ec07c" # aqua/cyan
+# base0D: "83a598" # blue
+# base0E: "d3869b" # purple
+# base0F: "d65d0e" # brown
